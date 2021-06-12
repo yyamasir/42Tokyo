@@ -1,0 +1,1 @@
+git rev-parse HEAD HEAD~1 HEAD~2 HEAD~3 HEAD~4

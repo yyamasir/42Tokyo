@@ -1,0 +1,13 @@
+Credentials cache: API:CE34FD04-306F-4680-998F-83B3ACD167E1
+        Principal: yyamasir@42TOKYO.JP
+    Cache version: 0
+
+Server: krbtgt/42TOKYO.JP@42TOKYO.JP
+Client: yyamasir@42TOKYO.JP
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 320
+Auth time:  Jun  9 22:17:02 2021
+End time:   Jun 10 08:17:02 2021
+Ticket flags: enc-pa-rep, pre-authent, initial, proxiable, forwardable
+Addresses: addressless
+
